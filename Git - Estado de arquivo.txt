@@ -1,0 +1,10 @@
+
+
+Tracked - Arquivo já é conhecido pelo git. Podem ser unmodified, modified e staged.
+
+Untracked - Arquivo ainda não é conhecido pelo git.
+
+
+**Unmodified - arquivo já é conhecido pelo git mas não foi modificado.
+**Modified - arquivo é é conhecido pelo git, foi modificado e ainda não foi commitado.
+**Staged - marcou um arquivo modificado pra ir para o próximo snapshop de commit.
