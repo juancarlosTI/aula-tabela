@@ -1,4 +1,6 @@
 PSicopley
+Aley
+Terceafafa
 
 Tracked - Arquivo já é conhecido pelo git. Podem ser unmodified, modified e staged.
 
